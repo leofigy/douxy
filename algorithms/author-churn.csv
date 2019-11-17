@@ -1,0 +1,1016 @@
+author,added,deleted,commits
+--global,57,51,4
+7heo,7,1,1
+#ERROR!,192,19,9
+@tmshn,5,0,1
+A-Gordon,6,0,1
+AJ Bahnken,15,2,2
+AJ Bourg,1,1,1
+AMeng,6,0,2
+Aaron Welch,697,244,5
+Abhijeet Gaiha,120,24,2
+Adam Byrtek,181,0,1
+Adam Enger,78,5,2
+Adam Heeren,205,50,6
+Adam Lewandowski,2,2,1
+Adam Mielke,216,18,1
+Adam Ochonicki,1,4,1
+Adam Shannon,1,1,1
+Adam Ward,6,4,1
+Adit Sarfaty,46,0,1
+Aditya Anchuri,33,3,1
+Adrian Chelaru,457,0,1
+Ahmon Dancy,7,4,1
+Alan Grosskurth,1,1,1
+Albert Choi,1517,95,10
+Alek Storm,54,19,8
+Aleksander Modzelewski,12,3,1
+Alex Berghage,10,12,1
+Alex Chan,1,1,1
+Alex Crowe,318,0,1
+Alex Eftimie,52,50,3
+Alex Gaynor,67,62,5
+Alex Gray,2,2,1
+Alex Harvey,33,6,2
+Alex Ianchici,8,0,1
+Alex Meng,50,19,1
+Alex Philipp,1,1,1
+Alex Pilon,2593,61687,35
+Alex Rowley,13,16,3
+Alex Shadrin,14,1,1
+Alex Somesan,6,14,5
+Alexander,1492,257,20
+Alexander Dupuy,11,10,2
+Alexander Ekdahl,9,2,2
+Alexander Fortin,1,1,1
+Alexander Hellbom,2160,699,20
+Alexander Kyxap,14,1,2
+Alexander Simmerl,159,49,1
+Alexander Zhukau,2,2,1
+Alexis Grant,1,1,1
+Alice Sawatzky,2,2,1
+Ameir Abdeldayem,4,4,1
+Andras Ferencz-Szabo,5,4,2
+Andre Bindewald,0,1,1
+Andre Silva,8,0,1
+Andreas Kyrris,245,119,19
+Andreas Skarmutsos Lindh,1191,85,4
+Andreas Sommer,16,0,1
+Andreas Wrl,2,1,1
+Andres Koetsier,8,0,1
+Andrew Bloomgarden,1,0,1
+Andrew Garrett,112,6,3
+Andrew Hodges,116,99,2
+Andrew Langhorn,3,3,1
+Andrew Murray,1,1,1
+Andrew Starr-Bochicchio,46,1,2
+Andrew Sy Kim,27,0,1
+Andrew Tarry,8,2,1
+Andriy Borodiychuk,1,1,1
+Andy Chan,351,76,10
+Andy Lindeman,566,153,5
+Andy Royle,187,1,1
+Annie Hedgpeth,5819,57,17
+Anshul Sharma,1610,15,18
+Anthony Scalisi,44,44,1
+Anthony Stanton,890,212,15
+Antoine Grondin,465,105,3
+Antoine Jacoutot,2,4,1
+Antoine Rouaze,27,0,1
+Anton Babenko,2,2,2
+Anton Koldaev,0,3,1
+Anton Tereshchenkov,24,11,2
+Anubhav Mishra,5,5,2
+Ariel Alonso,48,0,1
+Aris Pikeas,1,1,1
+Armon Dadgar,11733,3747,261
+Arthur Burkart,13,0,1
+Ash Berlin,1,1,1
+Ashish Kumar Thakur,3380,487,1
+Aurelie Vache,1,1,1
+Avi Nanhkoesingh,31,15,1
+Ayu Demura,543,95,7
+BSick7,116,89,3
+Baraa Basata,1,1,1
+Bart van der Schans,138,7,1
+Bastien Penavayre,4,4,1
+Ben,2,2,1
+Ben Lau,9,9,5
+Ben Marini,134,0,1
+Ben Slusky,33,5,1
+Benjamin Boudreau,1,1,1
+Benjamin Chelli,4,0,1
+Benjamin Lau,7,3,3
+Benjamin Pineau,15,0,1
+Benjamin Vickers,316,0,1
+Benjamin vickers,174,24,1
+Bernerd Schaefer,231,7,6
+Bill Fumerola,4,3,3
+Bill Maxwell,244,101,1
+Blake Smith,10,0,1
+BobVanB,25,0,1
+Bobby DeVeaux,330,39,8
+Bodo Petermann,1,1,1
+Borgstrom ?,200,0,2
+Borys Pierov,1,1,1
+Brad Larson,2,2,2
+Brad Sickles,1000,214,7
+Brandon Clodius,10,1,2
+Brandon Rochon,6,1,2
+Brandon Siegel,9,0,2
+Brandon Tosch,935,553,25
+Brendan Shaklovitz,468,9,1
+Brett Mack,1825,508,14
+Brian Antonelli,1,1,1
+Brian Cain,1,1,1
+Brian Cervenka,7,0,1
+Brian Chen,648,5,1
+Brian Edwards,233,1,1
+Brian Flad,1291,3857,54
+Brian Hahn,9,9,1
+Brian Hicks,439,11,3
+Brian Menges,9,1,1
+Brian Williams,86,28,1
+Bruno Miguel Custodio,534,59,14
+Bruno Tavares,0,8,1
+Bryan Burgers,40,19,1
+Bryce Kahle,13,0,1
+Buck Ryan,0,3,1
+Caio Filipini,240,85,5
+Calle Pettersson,11,2,3
+Calum Lacroix,3,0,1
+Calvin French-Owen,1,0,1
+Cameron Childress,2,0,1
+Cameron Stokes,81,6,3
+Cameron Watters,125,0,1
+Cameron Wood,144,0,2
+Camilo Aguilar,538,2,4
+Carl Youngblood,10,4,1
+Carles Figuerola,198,49,5
+Carlos A Becker,6,4,1
+Carlos Diaz-Padron,26,13,2
+Carlos Sanchez,62,14,4
+Cedric Brandily,28,11,1
+Charles Kenney,4,1,1
+Chase,1,1,1
+Chase Adams,1,1,1
+Chiradeep Vittal,8,6,2
+Chris Bednarski,830,66,13
+Chris Broglie,235,28,2
+Chris Buben,18,0,1
+Chris Busbey,2,2,1
+Chris Doherty,22,1,4
+Chris Johnson,881,383,9
+Chris Kent,117,20,1
+Chris Love,328,99,15
+Chris Marchesi,5171,774,92
+Chris Paris,5,0,1
+Chris Trotman,35,3,1
+Christian Berendt,573,393,8
+Christian Hildebrando Hercules,1,1,1
+Christian Karlsen,4,2,1
+Christian Pearce,25,21,1
+Christoffer KylvÜg,66,5,2
+Christoph Blecker,203,81,33
+Christoph Kappel,19,0,1
+Christoph Tavan,210,4,3
+Christophe van de Kerchove,2,0,2
+Christopher Elkins,8,0,1
+Christopher Tiwald,1859,23,17
+Cliff Pracht,7,2,1
+Clint,5908,813,423
+Clint Shryock,11514,6195,276
+Colin Fowler,15,4,1
+Colin Hebert,639,105,23
+Colin Moller,45,9,2
+Colin Saliceti,19,6,2
+Colin Wood,971,189,8
+Colin Woodbury,1,1,1
+Conor Mongey,301,15,5
+Craig Dodd,2,2,1
+Craig Knott,113,1,2
+Cristian Calin,456,72,3
+Csaba Palfi,15,2,1
+Cuong Nguyen,12,8,1
+Curtis Allen,22,11,1
+DJ Home,12,0,3
+Dainis Tillers,63,19,7
+Daisuke Fujita,1,2,1
+Dan Allegood,129,25,4
+Dan Carley,134,26,7
+Dan Everton,626,296,12
+Dan Hilton,156,1,1
+Dan Paquette,3,0,1
+Dan Peterson,186,39,4
+Dan Stine,6,6,1
+Dan Thagard,14,6,2
+Dan Wendorf,9,9,4
+Dana Hoffman,2678,1158,83
+Daniel,28,9,2
+Daniel Bryant,12,4,1
+Daniel Farina,1,1,1
+Daniel Imfeld,16,12,1
+Daniel Kats,1,1,1
+Daniel Malon,7,0,1
+Daniel Mangum,0,89,1
+Daniel Portella,105,15,4
+Daniel Schierbeck,20,0,3
+Daniel Schmidt,130,0,2
+Daniel Schroeder,2,2,1
+Daniel Spangenberg,29,15,1
+Daniel del Castillo,3,3,2
+Danny Cosson,1,0,1
+Daren Desjardins,10,0,2
+Darren White,16,2,2
+Dave Cunningham,2662,1110,41
+Dave D'Amico,6,0,1
+Dave McDermid,37,0,1
+Dave Walter,39,25,1
+David Adams,34,12,2
+David Blooman,416,0,1
+David Bouchare,8,3,1
+David Celis,7,153,1
+David Gillies,4,0,1
+David Glasser,293,162,14
+David Harris,909,110,19
+David Joos,2,2,1
+David Kelly,2,2,1
+David Laing,2,0,1
+David Lanner,2,2,1
+David Meyer,55,2,2
+David Radcliffe,322,17,7
+David Tolnay,207,98,14
+David Watson,1377,71,14
+David Winterbottom,4,4,1
+Davide Agnello,478,40,3
+Dejan Golja,9,3,1
+Dennis Webb,12,10,6
+Derek Abdine,456,0,1
+Derek Richard,15,1,1
+Derrick Petzold,39,2,1
+Devin Lundberg,1,1,1
+Diego Rodriguez,1,1,1
+Dirk Avery,2,2,1
+Dmitrii Korotovskii,124,0,1
+Dmytro Aleksandrov,587,4,3
+Dominik Lekse,262,32,2
+Dominik-K,1,1,1
+Doug Neal,208,35,7
+Dr Nic Williams,29,74,1
+Drew Minnear,66,1,1
+Duncan,16,7,1
+Dustin J. Mitchell,6,2,2
+Dylan Conrad Johnson,9,3,1
+Dylan Vaughn,80,16,3
+Eamon Hetherton,8,1,1
+Eddie Forson,5,4,1
+Eddy Hernandez,4,0,1
+Edmund Craske,3,0,1
+Edward Betts,7,7,1
+Edward Muller,569,101,2
+Eli Shvartsman,2,2,1
+Elliot Graebert,11,0,1
+Eloy Coto,63,22,3
+Emil Hessman,432,210,20
+Eric Bellemon,324,25,3
+Eric Buth,251,3,3
+Eric Connell,29,7,1
+Eric Krupnik,1,1,1
+Eric Lee,8,1,1
+Eric Nieuwenhuijsen,213,0,1
+Eric Robert,12,0,1
+Eric Rutherford,14,7,5
+Eric Westfall,1,1,1
+Erik Jansson,1074,28,8
+Ernest W. Durbin III,1274,643,4
+Ethan,1,1,1
+Ethan Gunderson,1,1,1
+Eugene Chuvyrov,194,16,3
+Evan Brown,2530,362,25
+Evan Krall,1,2,1
+Evan Phoenix,27,13,4
+Evgeny Chuvpilo,25,4,1
+Eyal Posener,0,12,1
+Farid Neshat,4,3,1
+Fatih Arslan,71,18,5
+Federico Ceratto,61,9,1
+Felivel Camilo,19,2,2
+Felix Rodriguez,3,3,1
+Ferran Rodenas,332,0,2
+Florian Forster,817,784,32
+Florin Patan,67,7,3
+Frederic,3,0,1
+F†bio Matavelli,67,0,1
+Gabi Davar,3,0,1
+Gareth Oakley,30,0,1
+Garfield Freeman,1,1,1
+Garrett Heel,168,13,3
+Garrett Johnson,181,0,1
+Gaurav Chaturvedi,6,5,3
+Gauthier Wallet,2015,86,14
+Gavin James,56,2,2
+Gavin Williams,1464,697,37
+George Hartzell,116,1,2
+Gepser Hoil,4,4,1
+Gerben Jacobs,6,0,1
+Gerrit Tamboer,79,27,3
+Glen Mailer,12,7,1
+Glenn Poston,83,0,1
+Gopal Singhal,1,1,1
+Gordon Shankman,4,0,1
+Gorka Lerchundi Osa,62,0,2
+Graham Davison,7,4,1
+Graham Floyd,8,0,1
+Greg Aker,15,0,2
+Greg Osuri,48,17,6
+Greg Thole,93,13,2
+Grisha Trubetskoy,1,1,1
+"Gruendler, Daniel (415)",1,1,1
+GrÇgoire Pineau,5,0,1
+Guido Bakker,3,0,1
+Guillaume Giamarchi,1794,925,22
+Guillaume J. Charmes,1,1,1
+Gustavo,14,0,1
+Hany Fahim,166,36,16
+Hao,27,2,1
+Hao-kang Den,26,5,2
+Harry Hull,1,0,1
+Harry Macey,4,0,1
+Hasan Ramezani,1,1,1
+Hasan Tu?rken,163,62,3
+HashiBot,1,1,1
+He Guimin,1978,277,10
+Hector Castro,1,1,1
+Hector Rivas Gandara,36,10,4
+Henrik Hodne,699,0,2
+Henry Bell,1,1,1
+Herkermer Sherwood,3,4,1
+Hugo Duncan,3,2,1
+INADA Naoki,58,55,2
+Ian Atha,1,0,1
+Ian Delahorne,6,0,1
+Ian Duffy,182,129,2
+Ian L,202,0,2
+Ian Morgan,1,1,1
+Igor Dubinskiy,5,4,1
+Igor Vuk,48,47,12
+Igor Wiedler,92,90,1
+Ivan Fuyivara,326,0,1
+Ivan Kalita,62,8,2
+Ivan Pedersen,1,1,1
+JB Arsenault,13,0,1
+JWal31,28,0,1
+Jack Bruno,3385,41,4
+Jack Pearkes,6129,1282,156
+Jacob Severson,566,6,2
+Jacques Lemieux,15,11,1
+Jahn Saito,690,0,2
+Jake,1162,0,2
+Jake Champlin,9262,5769,249
+Jake Pusateri,4,4,1
+Jakub Janczak,507,56,8
+James Bardin,54056,282006,1324
+James Healy,28,0,2
+James McGill,13,14,1
+James Nugent,22780,17372,469
+James Rasell,1,1,1
+James Stremick,32,25,3
+James Turnbull,3,3,2
+Jan Nabbefeld,604,0,1
+Jan Schumann,610,42,5
+Jan ?kr†?ek,3,1,1
+Januar,16,1,1
+Jared Biel,19,2,1
+Jarrod Jackson,183,0,1
+Jasmin Gacic,5509,385,11
+Jason Berlinsky,2,1,1
+Jason Felice,36,15,7
+Jason Gedge,43,1,2
+Jason Padvorac,6,0,1
+Jason Riddle,6,1,2
+Jason Waldrip,383,38,2
+Jason Wieringa,10,0,1
+Jay Wallace,0,2,1
+Jay Wang,418,9,7
+Jean Mertz,235,0,2
+Jean-Franáois Pucheu,1,1,1
+Jearvon Dharrie,1,1,1
+Jeet Parekh,63,0,1
+Jeff Bachtel,1,1,1
+Jeff Goldschrafe,238,12,5
+Jeff Green,0,1,1
+Jeff Klukas,12,0,2
+Jeff LaPlante,42,9,3
+Jeff Mitchell,955,203,12
+Jeff Tang,1038,1,4
+Jeff Theriault,12,0,1
+Jeff Thompson,22,28,1
+Jeff Zellner,3,3,1
+Jeff Zohrab,1,1,1
+Jeremiah Snapp,18,6,1
+Jeremy Asher,165,12,4
+Jeremy Livingston,17,0,1
+Jeroen de Korte,295,17,4
+Jesse Adametz,1,1,1
+Jesse Collier,9,0,1
+Jesse Szwedko,796,146,11
+Jesus Vazquez,2,1,1
+Joakim Sernbrant,146,32,4
+Joaqu°n Fern†ndez Campo,5,3,1
+Joe Khoobyar,13,2,3
+Joe Topjian,12060,3083,315
+Joel Moss,28,3,2
+Joel Thompson,53,0,1
+Joel Vasallo,13,6,5
+Joern Barthel,256,18,9
+Johannes Boyne,134,0,1
+Johannes WÅrbach,118,9,1
+John Bowler,5,4,2
+John Bresnahan,2,2,1
+John E. Vincent,124,6,1
+John Engelman,1934,189,26
+John Ewart,1437,146,14
+John Gosset,3,2,1
+John Murphy,1,1,1
+John Wards,2,2,2
+Jon Burgess,4,0,1
+Jon Oden,143,135,2
+Jon Perritt,5976,3163,59
+Jon-Erik Schneiderhan,1,1,1
+Jonathan Camp,6,7,1
+Jonathan Kinred,8,0,1
+Jonathan Leibiusky,176,0,1
+Jonathan McCall,24,17,4
+Jonathan Mettes,47,2,1
+Jonathan Rudenberg,26,10,1
+Jonty Wareing,6,0,1
+Jorge Nu?n?ez,20,1,1
+Joseph Anthony Pasquale Holsten,1873,315,6
+Joseph Herlant,22,22,1
+Joseph Kordish,17,0,1
+Jose? F. Romaniello,20,0,1
+Josh Bleecher Snyder,280,38,6
+Josh Cooley,1,1,1
+Josh Grancell,1,1,1
+Josh Masseo,311,0,1
+Josh Myers,172,0,1
+Josh Taylor,94,5,1
+Josh VanderLinden,23,8,3
+Joshua Carp,114,77,4
+Joshua Garnett,46,0,2
+Joshua Lund,1,1,1
+Joshua Seidel,60,37,7
+Joshua Semar,4,3,2
+Joshua Spence,941,175,17
+Juan Carlos Alonso,2,2,1
+Julian Schneider,7,0,1
+Julien Fabre,50,0,1
+Julien Pivotto,209,97,5
+Julien Vey,386,304,8
+Jurnell Cockhren,5,3,2
+Justin Campbell,994,280,46
+Justin Clark,15,2,4
+Justin DiPierro,22,11,4
+Justin Downing,6,6,1
+Justin LaRose,1,1,1
+Justin Marney,10,0,1
+Justin Nauman,284,97,10
+KOJIMA Kazunori,953,13,7
+Kannan Goundan,82,18,4
+Karol Stepniewski,27,0,1
+Karol St?pniewski,18,10,1
+Katelyn Perry,1,1,1
+Katy Moe,0,10,1
+Kaveh Mousavi Zamani,47,35,2
+Kazuma Watanabe,41,9,2
+Kazumichi Yamamoto,1860,0,3
+Kazunori Kojima,336,26,13
+Kelvin Law,42,21,1
+KensoDev,14,2,3
+Kent 'picat' Gruber,4,0,1
+Kent Wang,20,17,2
+Kerim Satirli,1,1,1
+Keshav Varma,961,0,1
+Kevin Carmody,1,1,1
+Kevin Crawley,141,48,2
+Kevin DeJong,19,0,1
+Kevin Fishner,0,1,1
+Kevin Nuckolls,44,9,4
+Kevin Visscher,20,0,1
+Kevin van Zonneveld,1,1,1
+Kim Ngo,4,0,2
+Kirill Shirinkin,155,16,7
+Kit Ewbank,1924,135,38
+Koen De Causmaecker,45,13,4
+Kostas Theodorakopoulos,1,1,1
+Kraig Amador,620,142,8
+Kristin,4,2,1
+Kristin Laemmert,12822,3869,273
+Kristinn ôrn Sigur–sson,152,14,5
+Kristiyan Nikolov,21,3,1
+Krzysztof Wilczynski,1574,541,53
+Kurt Scherer,36,6,2
+Kushal Pisavadia,64,1,1
+Kyle Havlovitz,9,0,1
+Kyle McCullough,31,2,1
+Kyle Mott,568,445,3
+Kyle Persohn,6,2,1
+Lars Bahner,15,0,1
+Lars Eric Scheidler,42,0,1
+Lars Lehtonen,10,3,4
+Lars Wander,5734,1160,61
+Laura Martin,6,8,1
+Laurent Commarieu,21,1,2
+Lee Johnson,9,5,2
+Len Smith,558,0,1
+Liam Bennett,281,20,4
+Linda Xu,188,9,5
+Liran Polak,5904,0,2
+Long Nguyen,24,2,2
+Loren Gordon,1,1,1
+Loãc Albertin,39,0,1
+Lucas Vasconcelos Santana,24,0,1
+Luis Silva,50,8,4
+Luke Amdor,104,22,18
+Luke Chadwick,63,13,3
+Lyle Franklin,37,12,4
+Madhu,19,3,4
+Malik Bougacha,1,1,1
+Malte Brodersen,14,11,1
+Manoj,1,0,1
+Manuwela Kanade,3,0,1
+Marc Rooding,199,0,2
+Marc Tamsky,22,0,1
+Marc Vieira-Cardinal (VA2MVC),1,1,1
+Marcello LaganÖ,53,3,3
+Marcin Suterski,168,3,2
+Marcus Young,120,2,2
+Mark,23,12,1
+Mark Freebairn,14,0,1
+Mark Peek,94,33,3
+Mark Severson,26,16,1
+Mark Troyer,3,2,1
+Marko Springfeldt,2,2,1
+Mars Hall,628,277,19
+Martin Atkins,165202,85869,1884
+Martin HÑger,89,2,3
+Martins Sipenko,32,0,1
+Mary Cutrali,1,1,1
+Masayuki Morita,310,43,13
+Mat Davies,11,0,1
+Mat Schaffer,1,1,1
+Mateusz Gozdek,1,1,1
+Mathieu Herbert,634,2,4
+Matt Calthrop,72,16,1
+Matt Dainty,715,94,14
+Matt Good,130,24,1
+Matt Jones,2,2,1
+Matt Long,1,0,1
+Matt Morrison,1203,200,20
+Matt Moyer,19,2,3
+Matt Robenolt,17,5,2
+Matthew,96,6,2
+Matthew Brewer,10,1,1
+Matthew Frahry,49,18,5
+Matthew Sanabria,6,1,1
+Matti Savolainen,2,2,1
+Mattias Gees,2,0,2
+Max Englander,1038,95,10
+Max T,5,1,1
+Maxime Bury,338,91,18
+Micah Hausler,16,0,1
+Michael Austin,199,8,6
+Michael D Roach,136,0,1
+Michael Dunton,164,0,1
+Michael Gîhler,24,17,1
+Michael H. Oshita,1,1,1
+Michael Handler,130,29,2
+Michael Henry,14,12,2
+Michael Kuzmin,134,23,3
+Michael S. Fischer,2,0,1
+Michael Warkentin,1,1,1
+Michal Jankowski,178,0,2
+Micha? Guminiak,5,1,1
+Michel Rasschaert,6,1,1
+Mick Pollard,1,1,1
+Mickaâl CanÇvet,469,25,8
+Mike Ball,1,1,1
+Mike Brannigan,24,3,2
+Mike Fowler,306,4,6
+Mike Helmick,44,0,1
+Mike Tougeron,19,4,2
+Mike Zupan,9,2,4
+Milan Karalic,37,0,1
+Mildred Ki'Lya,20,1,1
+Minku Lee,1,1,1
+Minkyu Kim,3,9,1
+Mioi Hanaoka,1,1,1
+Mitchell Hashimoto,113264,58897,3009
+Modestas Vainius,27,3,2
+"Mosley, Franklin",228,4,3
+Mudassar Shafique,78,1,2
+M†ximo Cuadros,1511,156,5
+Nandor Kracser,43,11,1
+Naoto Yokoyama,144,0,2
+Nashwan Azhari,1036,55,5
+Nathan Evans,9,2,1
+Nathan McKinley,5,4,1
+Nathan Sullivan,6,3,2
+Nathan Zadoks,79,0,1
+Nevins,69,0,1
+Nevins Bartolomeo,3,3,1
+Nic Cope,58,4,3
+Nic Grayson,2,2,1
+Nick Downs,12,0,1
+Nick Fagerlund,52,37,6
+Nick Johnstone,1,1,1
+Nick Laferriere,8,8,3
+Nick Santamaria,42,6,2
+Nicki Watt,65,53,2
+Ninir,1348,591,36
+Noah Webb,457,53,9
+Nolan Darilek,11,0,1
+Nolan Davidson,892,111,4
+N†ndor Istv†n Kr†cser,1,1,1
+Ola Karlsson,9,0,2
+Oleg Butuzov,1,1,1
+Oleg Chunikhin,10,5,1
+Ollie Ford,19,2,1
+Or Elimelech,1,1,1
+Oscar Utbult,5,5,1
+Otto Jongerius,1547,1406,17
+Pablo Cantero,31,11,3
+Pablo Lalloni,115,0,1
+Paddy,729,506,69
+Paddy Carver,1141,322,19
+Pam Selle,630,321,75
+Panagiotis Moustafellos,245,83,18
+Partha Dutta,21,10,1
+Parviz,4,1,1
+Pasha Palangpour,226,24,3
+Patrick Aikens,2,2,1
+Patrick Decat,2,2,2
+Patrick Gray,886,514,13
+Patrick Lee,31,31,1
+Patrick Lucas,0,1,1
+Patrick SodrÇ,50,2,3
+Patrick Van Stee,10,0,2
+Paul Bellamy,115,66,2
+Paul Forman,139,20,7
+Paul Frybarger,7,5,1
+Paul Hinze,16498,5844,625
+Paul Morton,207,0,1
+Paul O'Connor,2,2,2
+Paul Stack,18327,9065,1242
+Paul Thrasher,508,70,18
+Paul Tittle,22,0,2
+Paul Tyng,1329,53,26
+PaulAtkins,374,0,1
+Paulo Eduardo Deininger Messias Alves,1,0,1
+Paulo Schreiner,68,5,2
+Pavel Khusainov,52,0,1
+Pawel Burchard,2,0,1
+Pawe? Socha,51,38,3
+Pete Hodgson,85,6,3
+Pete Shima,15,1,1
+Pete Wildsmith,27,6,2
+Peter Beams,679,369,11
+Peter Dave Hello,1,1,1
+Peter Goodman,68,0,1
+Peter Hollows,1,1,1
+Peter McAtominey,4409,878,58
+Petr Artamonov,5,2,2
+Phil Frost,1548,103,16
+Phil Kates,1,1,1
+Philip Witty,333,13,2
+Philipp Pre·,6,1,2
+Philippe Muller,1,1,1
+Pierre Carrier,163,47,2
+Pierre-Alain TORET,1,1,1
+Piotr Komborski,30,14,1
+Piotrek Bzdyl,436,0,1
+Poney baker,1,1,1
+Pradeep Bhadani,12,0,1
+Pryz,25,0,1
+Przemys?aw D?bek,6,0,1
+Puneeth Nanjundaswamy,1,2,1
+Quentin Machu,339,0,2
+RaGe,1,1,1
+Radek Simko,37258,18571,773
+Rafal Jeczalik,52,6,3
+Rahul Menon,269,163,9
+Raphael Randschau,4912,413,51
+Raphaâl Pinson,1191,62,31
+Raymond Fallon,377,86,5
+Ra£l Naveiras,1,1,1
+Reinhard NÑgele,26,0,2
+Renier Morales,129,52,2
+Reuven V. Gonzales,1,0,1
+Rev. C. Bennett Hoffman,46,3,1
+Rhyas,41,13,1
+Rhys Laval,132,1,2
+Ricard Clau,8,2,1
+Richard Bowden,19,1,1
+Richard Clamp,810,4,5
+Richard Henning,52,4,2
+Riley Karson,498,21,11
+Rob Campbell,117,72,3
+Rob Costanzo,325,38,6
+Rob Coward,10,10,2
+Rob Phoenix,3,3,1
+Rob Zienert,228,34,5
+Robert Conrad,12,0,1
+Robert Deusser,16,13,1
+Robert J,12,7,1
+Robert Liebowitz,244,111,3
+Robert Rudduck,280,66,7
+Robert Tillery,65,3,1
+Roberto Jung Drebes,3665,216,13
+Robin Walsh,23,8,1
+Rolo,1,1,1
+Roman Laguta,15,3,2
+Ross Delinger,42,0,1
+Ross McFarland,277,148,6
+Rui Gonc?alves,11,0,1
+Rui Gonáalves,18,3,3
+Rui Lopes,6,0,1
+Rui Zhang,8,0,1
+Ruslan,1,1,1
+Ryan,1,1,1
+Ryan Eschinger,1,1,1
+Ryan Hoegg,65,0,1
+Ryan King,1,2,1
+Ryan Lewon,1,1,1
+Ryan Moran,371,5,1
+Ryan Roberts,254,0,2
+Ryan Schlesinger,10,0,1
+Ryan Uber,305,14,5
+Ryo Takaishi,62,2,1
+Ryosuke Sato,9,177,2
+S. Brent Faulkner,54,9,3
+Sam Bashton,68,5,2
+Sam Boyer,15,75,1
+Sam Clinckspoor,268,22,4
+Sam Crang,16,7,1
+Sam Dunne,109,13,5
+Samuel BERTHE,47,0,1
+Sandeep Sidhu,20,0,1
+Sander van Harmelen,37252,17575,447
+Sander van Zoest,0,1,1
+Sarah Zelechoski,9,2,2
+Sargun Dhillon,20,0,1
+Sargurunathan Mohan,29,15,5
+Sathiya Shunmugasundaram,678,68,19
+Saverio Miroddi,1,1,1
+Scott Hain,11,4,1
+Scott Nowicki,1742,1170,69
+ScottWinkler,119,27,4
+Sean Chittenden,18537,4196,102
+Sean Herron,8,0,1
+Sebastiaan van Steenis,13,3,2
+Sebastian Maj,18,11,1
+Sergey,6,14,1
+Sergey Kondrashov,7,7,1
+Sergiusz Baza?ski,1,2,1
+Sergiusz Urbaniak,227,43,1
+Sertaá ôzercan,85,13,1
+Seth Vargo,2690,1650,31
+Sevag Hanssian,494,12,2
+Shane O'Grady,1,0,1
+Sharif Nassar,11,5,3
+Shawn Silva,33,13,2
+Shay Elmualem,1,1,1
+Sherod Taylor,72,26,1
+Shinichi TAMURA,6,0,1
+Silas Sewell,424,230,1
+Simon Brady,1,1,1
+Simon Menke,1,1,1
+Simon Thulbourn,8,25,4
+Simon Turvey,109,129,1
+Simon Westcott,1,1,1
+Simone Carletti,98,56,1
+Skyler Layne,1,1,1
+Sneha Somwanshi,562,130,11
+Sonia Hamilton,338,0,1
+Soren Mathiasen,147,1,2
+Spencer Krum,2,2,1
+Spencer Nelson,32,16,1
+Srikalyan Swayampakula,141,49,6
+Stas Alekseev,8,8,1
+Stefan Schmidt,5,15,3
+Stefan Staudenmeyer,1,1,1
+Stephan Epping,26,0,1
+Stephen Buergler,3,3,1
+Stephen Chu,19,14,4
+Stephen Cross,3354,0,2
+Stephen Muth,66,19,1
+Stephen Weatherford,91,45,6
+Steve Hoeksema,54,17,4
+Steven Crossan,9,10,1
+Steven Eschinger,4,4,1
+Stuart Auld,174,48,3
+Subba Rao Pasupuleti,70,5,1
+Suguru Namura,19,1,2
+Sunil K Chopra,20,6,4
+Sunny,33,5,4
+Sven Walter,3,0,1
+Svend Sorensen,5,6,3
+Syohei YOSHIDA,2,2,1
+TANABE Ken-ichi,296,5,3
+Takaaki Furukawa,1354,118,8
+Tamas Szasz,12,0,2
+Tarrant,51,6,2
+Taylor Chaparro,14,0,1
+TeamCity,4,2,4
+Techbrunch,2,2,2
+Techcadia,9,2,1
+Tero KeinÑnen,2,0,2
+Thayne McCombs,114,41,3
+The Terraform Team,1,0,1
+Thibault Vigouroux,3,1,1
+Thomas Poindessous,272,56,12
+Thomas Schaaf,143,37,1
+Thorsten Schifferdecker,1,1,1
+Tim,1,1,1
+Tim Gossett,116,29,4
+Tim Sharpe,556,0,1
+Tim Tharratt,404,0,1
+Timon Wong,22,3,1
+Tom Elliff,26,6,2
+Tom Fitzherbert,1,0,1
+Tom Harvey,4569,473,49
+Tom Hummel,0,2,1
+Tom Straub,15,3,1
+Tom Wilkie,177,59,5
+Tomas Doran,17,3,2
+Tommy Murphy,202,0,2
+Tomotaka Sakuma,536,0,2
+Traver Tischio,1068,106,9
+Travis Truman,1,1,1
+Trent Johnson,238,9,1
+Trevor Pounds,232,266,27
+Ubuntu,26,0,2
+Uriel Corfa,7,2,1
+VERDOÿA Laurent,25,0,2
+ValFadeev,68,0,2
+Valentin Pichard,582,533,1
+Vasily Tarasov,30,0,1
+Verdoãa Laurent,2,2,1
+Vicken Simonian,3,3,1
+Vincent Latombe,8,0,1
+Vincenzo Prignano,280,0,1
+Vladislav Rassokhin,329,139,3
+Wang Guoliang,6,12,1
+Warren Konkel,1,1,1
+Will May,150,2,2
+Willem van Vliet,8,0,1
+William Bowling,7,1,1
+Xavier Sellier,27,5,4
+Xu Wang,14,7,1
+Yahya Poonawala,58,0,3
+Yamamoto,1,1,1
+Yann DEGAT,1633,34,3
+Yasuhiko Katoh,1,1,1
+Yecheng Fu,2,2,1
+Yo Takezawa,18,7,4
+Yuji Yamano,4,4,1
+Yukihiko SAWANOBORI,15,0,1
+Yusuke Goto,491,0,1
+YuusukeMatsuura,16,11,1
+Yuya Kusakabe,9,0,1
+Yves Blusseau,72,30,4
+Zach Gershman,4,3,1
+Zachary Salzbank,7,0,1
+_jac,16,0,1
+aheeren,12,6,1
+aibou,28,5,1
+ajayk,7,20,3
+albert,1,0,1
+anniehedgpeth,424,180,6
+aqche,1,1,1
+avichalbadaya,2,1,1
+aznashwan,3120,777,13
+bclodius,27,12,1
+bdd,30,32,8
+benjvi,2,2,1
+bill fumerola,84,30,1
+cagriy,1,1,1
+chris,61,0,1
+chrisjob1021,11,0,1
+chrislovecnm,1,1,1
+clint,506,491,17
+clint shryock,6892,2450,196
+cmorent,57,10,4
+craigatgoogle,19,0,1
+cvvs,12,20,2
+danielcbright,1580,0,2
+dannytrigo,1,1,1
+dario-simonetti,14,4,1
+ddcprg,13,1,2
+ddegoede,269,0,1
+dedamico,1,1,1
+demonwy,4931,683,3
+deoxxa,89,7,1
+dj80hd,1,1,1
+djuke,5,1,1
+djworth,1,1,1
+dkalleg,2291,115,14
+duncan,13,0,1
+ebilhoo,280,61,5
+edmundcraske,3,0,1
+emily,80,6,2
+enm10k,1,1,1
+ephemeralsnow,51,20,1
+evalphobia,2,2,1
+f440,1,0,1
+findkim,263,92,10
+fossabot,5,0,1
+gkze,445,0,2
+goraxe,8,0,1
+grayaii,2,6,2
+gulyasm,1,1,1
+hasheddan,1,1,1
+hiroqn,6,0,1
+hmcgonig,14,8,1
+innossh,22,1,1
+jasminSPC,380,106,2
+jba,296,92,8
+jbwyatt4,1,1,1
+jd3nn1s,6,7,1
+jmasseo,2,2,2
+joel.ringuette,6,0,1
+johnthedev97,4,4,1
+jorge.marey,49,15,1
+jrperritt,531,1,2
+jugatsu,1,1,1
+julius-bonial,5,5,1
+justnom,60,4,2
+jwa,1,1,1
+kayrus,49,19,1
+kmoe,3,0,1
+kt,11,5,2
+kyhavlov,206,37,1
+lalyos,2,2,1
+liamjbennett,1696,86,3
+lian,8,0,1
+lstolyarov,3,2,1
+lwilliams-oats,7,1,1
+macheins,5,1,1
+mathematician,68,0,1
+mdeboercw,328,28,2
+mizuno,24,0,1
+mjsteger,3,8,1
+myoung34,25,0,1
+netjunki,52,18,12
+nevins-b,130,49,1
+nextrevision,258,4,2
+oleksandr.bushkovskyi,22,17,1
+pat,213,0,1
+pauljrob,1,1,1
+pbthorste,24,3,4
+peay,56,8,1
+protomouse,390,69,4
+protondonor,5,1,2
+qivers,1,1,1
+r_takaishi,36,0,1
+raylu,30,27,1
+rdark,45,11,1
+rmenn,1,1,1
+rv-jmaggio,44,20,5
+ryane,167,27,7
+samjwlee,1,1,1
+shanoor,2,2,1
+shin1x1,1,1,1
+sixcorners,1,1,1
+skfmu,15,8,1
+smasue,2,0,1
+snakeb1t,26,2,2
+sneha somwanshi,8,0,1
+stack72,15013,2480,391
+stevehorsfield,213,36,2
+stumbaumr,2,2,1
+stungtoat,56,41,6
+terraformbot,1,0,1
+tf-release-bot,173,159,29
+thetuxkeeper,403,485,8
+thrashr888,11,1,1
+tinocode,1,1,1
+tmatias,2,2,2
+tombuildsstuff,797,549,34
+toshihisa,2,2,1
+tpoindessous,1,1,1
+travertischio,10,8,2
+trung,17,0,1
+vagrant,7,0,1
+vince rosso,153,82,2
+wangyue,6892,0,1
+wata_mac,57,10,4
+yanndegat,1644,4,3
+yissachar,1060,0,1
+yn,40,10,2
+yuanye,135,14,1
+zbikmarc,15,3,1
+zimbatm,18,10,1
+zollie,19,2,2
+zpatrick,36,16,2
+?ukasz Jan Niemier,8,0,1
