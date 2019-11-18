@@ -85,7 +85,11 @@ def main():
             yield row
 
     out = pd.DataFrame(list(gen()), columns=['author','label','added','deleted','commits'])
-    out.to_csv(filename+".output.csv", index=False)
+    outputfile = filename+".output.csv"
+    out.to_csv(outputfile, index=False)
+    print("take a look to %s" % outputfile)
+
+
 
 if __name__ == '__main__':
     if not main():
