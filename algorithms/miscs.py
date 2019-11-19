@@ -5,13 +5,12 @@ def get_data(filename, encoding='iso-8859-1'):
     return raw
 
 def split(all, omit):
-    print (all.columns)
+    valida, omits, training_mask = all, pd.DataFrame(), all.columns
 
     if omit:
         omits = all[omit]
+        training_mask = list(filter(lambda h: h not in omit, all.columns))
+        valida = all[training_mask]
 
-    print("here you are")
-    training_mask = list(filter(lambda h: h not in omit, all.columns))
-    valida = all[training_mask]
     return valida, omits, training_mask
 

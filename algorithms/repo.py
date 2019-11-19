@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import argparse
 import sys
@@ -41,10 +41,8 @@ def main():
                     print("please provide the key to couple")
                     return
                 key = src.columns[0]
+            src = src.join(coupling.set_index(key), on=key)
 
-
-            # new src
-            src = src.set_index(key).join(coupling.set_index(key))
         values, meta, headers = split(src, args.ignore)
     except Exception as e:
         print("Phase 1 error %s" % e)
@@ -55,6 +53,7 @@ def main():
         return
 
     X = values.to_numpy()
+    X = np.nan_to_num(X)
     M = None
     if not meta.empty:
         M = meta.to_numpy()
@@ -72,7 +71,6 @@ def main():
         if M.any():
             for m, var, label in zip(M, X, labels):
                 row = list(m) + list(var) + [label]
-                print("columna", row)
                 yield row
         else:
             for var, label in zip(X, labels):

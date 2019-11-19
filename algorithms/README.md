@@ -17,4 +17,8 @@ maths
 - kmeans: 3 cluster just euclidean distance 
 - shift: find custom clusters based on data 
 
-coupling 
+coupling uses the sum of coupling
+```
+python3 repo.py data/orgs-metrics.csv -i entity -c data/sum-of-coupling.csv
+```
+
