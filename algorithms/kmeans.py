@@ -45,9 +45,7 @@ def main():
 
     X = data.to_numpy()
     authors = authors.to_numpy()
-    # The bandwidth is the distance/size scale of the kernel function, 
-    # i.e. what the size of the “window” is across which you calculate the mean.
-    
+
     model = KMeans(n_clusters=3,n_init=10)
     model.fit(X)
 

@@ -4,11 +4,8 @@ import logging
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
-from miscs import hello
-from sklearn.model_selection import train_test_split
-from sklearn.cluster import MeanShift, estimate_bandwidth
 from mpl_toolkits.mplot3d import Axes3D
+from sklearn.cluster import MeanShift, estimate_bandwidth
 
 
 # sample header 
@@ -18,7 +15,6 @@ from mpl_toolkits.mplot3d import Axes3D
 # commits    integer
 
 def main():
-    hello()
     # args
     if len(sys.argv) < 2:
         print("Usage: %s <user_file>" % sys.argv[0])
