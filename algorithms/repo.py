@@ -5,7 +5,7 @@ import sys
 import numpy as np
 import pandas as pd
 
-from miscs import get_data
+from miscs import get_data, split
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import pairwise_distances_argmin
 
@@ -15,6 +15,7 @@ def main():
     # parsing different files
     parser.add_argument("-c", "--coupling", help="extra file for coupling", type=str)
     parser.add_argument("-i", "--ignore", help="except columns from csv", action='append')
+    parser.add_argument("-k", "--key", help="merge key for coupling if not provided using the first column")
     parser.add_argument("-s", "--suffix", help="output suffix for input files input.output.csv",
                         type=str, default=".output.csv")
     parser.add_argument("files", nargs="*")
@@ -30,9 +31,23 @@ def main():
     filename = args.files[0]
     # reading inputs
     try:
-        values, meta, headers = get_data(filename, args.ignore)
+        src = get_data(filename)
+        if args.coupling:
+            coupling = get_data(args.coupling)
+            #dummy req first column is the index
+            key = args.key
+            if not key:
+                if src.columns[0] != coupling.columns[0]:
+                    print("please provide the key to couple")
+                    return
+                key = src.columns[0]
+
+
+            # new src
+            src = src.set_index(key).join(coupling.set_index(key))
+        values, meta, headers = split(src, args.ignore)
     except Exception as e:
-        print("error %s" % e)
+        print("Phase 1 error %s" % e)
         return
 
     if values.empty:
