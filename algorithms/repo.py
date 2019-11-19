@@ -36,7 +36,8 @@ def main():
         return
 
     if values.empty:
-        print("empty file " % filename)
+        print("empty file %s " % filename)
+        return
 
     X = values.to_numpy()
     M = None
@@ -65,9 +66,7 @@ def main():
 
     columns = headers + ["robot-type"]
     if args.ignore:
-        print("aqui no anda")
         columns = args.ignore + columns
-    print("veamos" , columns)
 
     out = pd.DataFrame(list(gen()), columns=columns)
     outputfile = filename + args.suffix
